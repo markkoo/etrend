@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://furni-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://furni-demo.myshopify.com/collections/all.atom"/>
+  <title>Furni</title>
+  <updated>2017-11-27T06:26:22-05:00</updated>
+  <author>
+    <name>Furni</name>
+  </author>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462048952363</id>
+    <published>2017-11-27T06:26:22-05:00</published>
+    <updated>2017-11-27T06:26:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/leatherette-office-chair"/>
+    <title>Leatherette Office Chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p7.jpg?v=1511781982" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            364.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048952363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462048591915</id>
+    <published>2017-11-27T06:26:20-05:00</published>
+    <updated>2017-11-27T06:26:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/hetal-enterprises-leatherette-office-chair"/>
+    <title>Hetal Enterprises Chair</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p5.jpg?v=1511781981" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            106.00 - 166.00
+            <a href="https://furni-demo.myshopify.com/products/hetal-enterprises-leatherette-office-chair">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Burikal</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Rubber</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048591915</id>
+      <title>S / Red / Rubber</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048591915</id>
+      <title>L / Mistyrose / Steel</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048591915</id>
+      <title>XL / Green / Wood</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048591915</id>
+      <title>M / brown / Fiber</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048591915</id>
+      <title>S / gray / Rubber</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462048100395</id>
+    <published>2017-11-27T06:26:19-05:00</published>
+    <updated>2017-11-27T06:26:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/woodstock-office-chair"/>
+    <title>Woodstock  Office Chair</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Cushnie et Ochs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p3.jpg?v=1511781980" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cushnie et Ochs<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            106.00 - 166.00
+            <a href="https://furni-demo.myshopify.com/products/woodstock-office-chair">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cushnie et Ochs</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048100395</id>
+      <title>M / Gray / Cotton</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048100395</id>
+      <title>L / Mistyrose / Wool</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048100395</id>
+      <title>S / Sandal / Nylon</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048100395</id>
+      <title>XL / green / Polyester</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462048100395</id>
+      <title>M / yellow / Velvet</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462047838251</id>
+    <published>2017-11-27T06:26:18-05:00</published>
+    <updated>2017-11-27T06:26:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/regentseating-chair"/>
+    <title>Regentseating Chair</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Cushnie et Ochs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p2.jpg?v=1511781979" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cushnie et Ochs<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            78.00 - 208.00
+            <a href="https://furni-demo.myshopify.com/products/regentseating-chair">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cushnie et Ochs</s:tag>
+    <s:tag>Cyan</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047838251</id>
+      <title>S / Cyan / Cotton</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047838251</id>
+      <title>M / Red / Silk</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047838251</id>
+      <title>L / Blue / Nylon</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047838251</id>
+      <title>XL / white / Polyester</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047838251</id>
+      <title>S / green / Wool</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462047543339</id>
+    <published>2017-11-27T06:26:16-05:00</published>
+    <updated>2017-11-27T06:26:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/alex-daisy-nordic-study-chair"/>
+    <title>Alex  Study Chair</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p1.jpg?v=1511781977" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            78.00 - 208.00
+            <a href="https://furni-demo.myshopify.com/products/alex-daisy-nordic-study-chair">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cyan</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047543339</id>
+      <title>M / Cyan / Cotton</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047543339</id>
+      <title>L / Red / Silk</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047543339</id>
+      <title>S / Blue / Nylon</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047543339</id>
+      <title>XL / sandal / Nylon</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462047543339</id>
+      <title>M / white / Wool</title>
+      <s:price currency="USD">208.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462046986283</id>
+    <published>2017-11-27T06:26:14-05:00</published>
+    <updated>2017-11-27T06:26:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/woodstock-india-leatherette-office-chair"/>
+    <title>Leatherette Office Chair</title>
+    <s:type>Tops</s:type>
+    <s:vendor>City Chic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p4.jpg?v=1511781975" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>City Chic<br />
+        <strong>Type: </strong>Tops<br />
+        <strong>Price: </strong>
+            78.00 - 378.00
+            <a href="https://furni-demo.myshopify.com/products/woodstock-india-leatherette-office-chair">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Afazon</s:tag>
+    <s:tag>City Chic</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046986283</id>
+      <title>M / Red / Silk</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046986283</id>
+      <title>L / Blue / Nylon</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046986283</id>
+      <title>S / Cyan / Polyester</title>
+      <s:price currency="USD">378.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046986283</id>
+      <title>XL / Sandal / Wool</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046986283</id>
+      <title>M / White / Cotton</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462046756907</id>
+    <published>2017-11-27T06:26:14-05:00</published>
+    <updated>2017-11-27T06:26:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/galaxy-shorts"/>
+    <title>Broomstick chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p8.jpg?v=1511781974" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046756907</id>
+      <title>White / Steel</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462046265387</id>
+    <published>2017-11-27T06:26:12-05:00</published>
+    <updated>2017-11-27T06:26:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/mavi-vinyl-study-chair"/>
+    <title>Mavi Vinyl Study Chair</title>
+    <s:type>Skirts</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p6.jpg?v=1511781973" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Skirts<br />
+        <strong>Price: </strong>
+            364.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Steelblue</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / Steelblue / Silk</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>S / Plum / Cotton</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / Red / Nylon</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / Tan / Polyester</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / Coffee / Tulle</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>L / Teal / Velvet</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / White / Wool</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>M / Peru / Wool Blend</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462046265387</id>
+      <title>S / Maroon / Suede</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462045478955</id>
+    <published>2017-11-27T06:26:09-05:00</published>
+    <updated>2017-11-27T06:26:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/urban-ladder-venturi-chair"/>
+    <title>Urban   Chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p9_3824eb3a-7450-4f84-8f17-634ca7211c79.jpg?v=1511781970" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Givenchy<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            706.00 - 756.00
+            <a href="https://furni-demo.myshopify.com/products/urban-ladder-venturi-chair">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Fiber</s:tag>
+    <s:tag>Givenchy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462045478955</id>
+      <title>Red / Steel</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462045478955</id>
+      <title>Wood / Fiber</title>
+      <s:price currency="USD">706.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462045249579</id>
+    <published>2017-11-27T06:26:09-05:00</published>
+    <updated>2017-11-27T06:26:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/amet-kalrfort"/>
+    <title>Amet Kalrfort</title>
+    <s:type>Table</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p10.jpg?v=1511781969" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Table<br />
+        <strong>Price: </strong>
+            706.00 - 756.00
+            <a href="https://furni-demo.myshopify.com/products/amet-kalrfort">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Givenchy</s:tag>
+    <s:tag>Table</s:tag>
+    <s:tag>Teak</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462045249579</id>
+      <title>Teak / Wood</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462045249579</id>
+      <title>Teak / Steel</title>
+      <s:price currency="USD">706.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044954667</id>
+    <published>2017-11-27T06:26:08-05:00</published>
+    <updated>2017-11-27T06:26:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/ladder-roswell-solid-wood-table"/>
+    <title>Ladder Roswell Solid Wood  Table</title>
+    <s:type>Table</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p11.jpg?v=1511781968" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Table<br />
+        <strong>Price: </strong>
+            756.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>Table</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044954667</id>
+      <title>Black / Steel</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044692523</id>
+    <published>2017-11-27T06:26:07-05:00</published>
+    <updated>2017-11-27T06:26:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/muren-durable-and-portable-printed-study-table"/>
+    <title>Muren Durable Table</title>
+    <s:type>Table</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p12.jpg?v=1511781967" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Table<br />
+        <strong>Price: </strong>
+            756.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Table</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044692523</id>
+      <title>Beige / Wood</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044626987</id>
+    <published>2017-11-27T06:26:06-05:00</published>
+    <updated>2017-11-27T06:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/fuastick-chair"/>
+    <title>Fuastick chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p13.jpg?v=1539600091" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            178.00 - 197.00
+            <a href="https://furni-demo.myshopify.com/products/fuastick-chair">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044626987</id>
+      <title>Brown / Wood</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044626987</id>
+      <title>Pink / Wood</title>
+      <s:price currency="USD">197.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044463147</id>
+    <published>2017-11-27T06:26:05-05:00</published>
+    <updated>2017-11-27T06:26:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/tempor-chair"/>
+    <title>Tempor chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Colovos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p14.jpg?v=1511781966" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Colovos<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            278.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Colovos</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044463147</id>
+      <title>Pink / Fiber</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044201003</id>
+    <published>2017-11-27T06:26:05-05:00</published>
+    <updated>2017-11-27T06:26:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/interior-leatherette-chair"/>
+    <title>Interior Leatherette  Chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Woodland</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p15.jpg?v=1511781965" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Woodland<br />
+        <strong>Type: </strong>Chair<br />
+        <strong>Price: </strong>
+            278.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Chair</s:tag>
+    <s:tag>Teak</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:tag>Woodland</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044201003</id>
+      <title>Teak / Wood</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462044069931</id>
+    <published>2017-11-27T06:26:04-05:00</published>
+    <updated>2017-11-27T06:26:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/voluptate-lit"/>
+    <title>Voluptate lit</title>
+    <s:type>Lamp Stand</s:type>
+    <s:vendor>Fubes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p19.jpg?v=1511781964" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Fubes<br />
+        <strong>Type: </strong>Lamp Stand<br />
+        <strong>Price: </strong>
+            478.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Fubes</s:tag>
+    <s:tag>Lamp Stand</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462044069931</id>
+      <title>Black / Steel</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://furni-demo.myshopify.com/products/462043742251</id>
+    <published>2017-11-27T06:26:03-05:00</published>
+    <updated>2017-11-27T06:26:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://furni-demo.myshopify.com/products/ullamco-cillum"/>
+    <title>Ullamco  Cillum</title>
+    <s:type>Lamp Stand</s:type>
+    <s:vendor>Dramax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2588/1650/products/p26.jpg?v=1511781964" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Dramax<br />
+        <strong>Type: </strong>Lamp Stand<br />
+        <strong>Price: </strong>
+            478.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Dramax</s:tag>
+    <s:tag>Iron</s:tag>
+    <s:tag>Lamp Stand</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Teak</s:tag>
+    <s:variant>
+      <id>https://furni-demo.myshopify.com/products/462043742251</id>
+      <title>Teak / Iron</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
